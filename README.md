@@ -23,10 +23,7 @@ Student at the University of British Columbia studying computer science.
 <td style="border: 0px solid transparent;">
 <img src="https://skillicons.dev/icons?i=js" width="40"/>
 <img src="https://skillicons.dev/icons?i=ts" width="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
-<img src="https://skillicons.dev/icons?i=java" width="40"/>
 <img src="https://skillicons.dev/icons?i=python" width="40"/>
-<img src="https://skillicons.dev/icons?i=go" width="40"/>
 <img src="https://skillicons.dev/icons?i=dart" width="40"/>
 </td>
 </tr>
