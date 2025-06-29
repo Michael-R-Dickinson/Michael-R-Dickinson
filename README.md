@@ -3,7 +3,9 @@
 Student at the University of British Columbia studying computer science.
 
 - I've worked on full-stack engineering and data science projects, looking to break into machine learning
+- I'm currently learning to build chrome extensions and developing my electron skills
 - Would love to help out with any passion projects!
+
 
 #### Previously at
 
