@@ -8,7 +8,7 @@ Student at the University of British Columbia studying computer science.
 #### Previously at
 
 <div>
-	<a href="https://mux.cs.ubc.ca/"> <img src="https://mux.cs.ubc.ca/mux-logo.svg" alt="MUX Lab Icon" height="60" width="60" align="center"/></a>
+	<a href="https://mux.cs.ubc.ca/"> <img src="https://mux.cs.ubc.ca/mux-logo.svg" alt="MUX Lab Icon" height="60" width="180" align="center"/></a>
    <a href="https://twentyideas.com/"> <img src="https://github.com/user-attachments/assets/2404c010-b1a5-4407-9b9f-7d165932ee5c" alt="Twenty Ideas Icon" height="60" width="60" align="center"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://ubcuas.com/"><img src="https://github.com/user-attachments/assets/62726c87-dee5-4743-96d9-ef74659dfa75" alt="Uncered Aircraft Systems Icon" height="60" width="60" align="center"/></a>
